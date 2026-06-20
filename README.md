@@ -25,6 +25,17 @@ The application executes a 4-Phase pipeline to analyze, interview, and evaluate 
 
 4. Phase 4: Structural Feedback Module: The quantitative similarity metric alongside the textual answers are pushed to Gemini to output qualitative diagnostics (strengths/weaknesses) and assign a final descriptive Academic Letter Grade (A, B, C, D, or F).
 
+so first the set up you put the job description 
+![ job description ](assets/setup.png)
+then Skill Gap Analysis using SpaCy to find match in cv and job description 
+![ job description ](assets/skill_analyis.png)
+then gemeni generate the question and it has type low mid hard 
+![ mid level question ](assets/question_level.png)
+![ hard level question ](assets/questionhard.png)
+then you get the feedback of your answers 
+![ feedback with score  ](assets/feedback.png)
+also you get score from A to F to the answers 
+![  score  ](assets/score.png)
 ---
 
 ## 🚀 Environment Setup & Installation Guide
