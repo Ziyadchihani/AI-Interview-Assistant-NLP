@@ -49,7 +49,7 @@ The application executes a 4-Phase pipeline to analyze, interview, and evaluate 
 
 ![ feedback with score  ](assets/feedback.png)
 
-## also you get score from A to F to the answers :
+## also you get score from A to F for each answers :
 
 ![  score  ](assets/score.png)
 ---
